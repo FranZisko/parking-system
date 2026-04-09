@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1775731232219",
+    "marca": "Toyota",
+    "placa": "LESDZI",
+    "color": "Blanco",
+    "entrada": "2026-04-09T10:40:32.219Z",
+    "salida": "2026-04-09T10:40:52.222Z",
+    "monto_pagar": null
+  },
+  {
+    "id": "1775731363649",
+    "marca": "Ford",
+    "placa": "QHZJ99",
+    "color": "Rojo",
+    "entrada": "2026-04-09T10:42:43.649Z",
+    "salida": "2026-04-09T10:44:33.159Z",
+    "monto_pagar": null
+  },
+  {
+    "id": "1775731383651",
+    "marca": "Audi",
+    "placa": "B8MIY7",
+    "color": "Gris",
+    "entrada": "2026-04-09T10:43:03.651Z",
+    "salida": null,
+    "monto_pagar": null
+  }
+]
